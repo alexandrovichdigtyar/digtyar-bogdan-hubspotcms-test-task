@@ -1,0 +1,12 @@
+defaultPortal: alexandrovich.digtyar@gmail.com
+portals:
+  - name: alexandrovich.digtyar@gmail.com
+    portalId: 26124949
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CJWIrc-mMBIJAA0AAAAA4A0DGJXFugwgkJOKFiju6QwyFD_pHaNiP3Dk4Wcj1upyfhIrlFN-OjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhT8P26L1AXt9YLLBx8FsJenoc4QEkoDZXUxUgBaAA
+        expiresAt: '2022-08-04T17:33:22.329Z'
+    personalAccessKey: >-
+      CiRldTEtZTQ5NS0zYTcwLTQzYTItYTQyNi1iYjU4ZTRlZDAzN2MQlcW6DBiQk4oWKhkABeaRgltbqqSk4syEXqrMbqGbWNE32LLJSgNldTE
